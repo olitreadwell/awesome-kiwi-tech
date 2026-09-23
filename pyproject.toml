@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A curated list of tech resources, projects, and communities in Aotearoa New Zealand."
 requires-python = ">=3.12"
 dependencies = [
-    "awesome-list @ git+https://github.com/olitreadwell/awesome-list-template@cb60f892041f563a0d139117aa174c64b559d954",
+    "awesome-list @ git+https://github.com/olitreadwell/awesome-list-template@b05bd1a",
 ]
 
 [dependency-groups]
