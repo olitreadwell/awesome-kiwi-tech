@@ -2,10 +2,6 @@
 
 A curated list of awesome tech resources, projects, and communities in Aotearoa New Zealand.
 
-## Table of Contents
-
-{toc}
-
 {content}
 
 ## Contributing

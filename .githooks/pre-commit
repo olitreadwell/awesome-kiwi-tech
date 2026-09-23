@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Regenerate the readme from the data, then run the fast subset.
+set -euo pipefail
+cd "$(git rev-parse --show-toplevel)"
+make generate
+git add README.md
+exec make check-fast

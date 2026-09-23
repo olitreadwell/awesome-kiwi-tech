@@ -48,7 +48,7 @@
                         "healthcare",
                         "ai"
                     ]
-                },
+                }
             ]
         },
         "open-source": {
@@ -116,7 +116,7 @@
                 {
                     "name": "Moxie Sessions",
                     "description": "Digital economy discussion group with blog",
-                    "url": "http://themoxiesessions.co.nz/",
+                    "url": "https://themoxiesessions.co.nz/",
                     "tags": [
                         "blog",
                         "digital economy"
@@ -177,7 +177,7 @@
                     ]
                 }
             ]
-        }
+        },
         "volunteering": {
             "name": "Volunteering Opportunities",
             "description": "Volunteer opportunities in the tech sector",

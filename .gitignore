@@ -1,0 +1,6 @@
+
+# Engine and generated state
+.venv/
+__pycache__/
+.pytest_cache/
+.state/

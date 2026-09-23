@@ -1,0 +1,30 @@
+# Configuration for this list. The engine reads it; the hooks read it.
+
+name = "Awesome NZ Tech"
+repo_slug = "awesome-nz-tech"
+readme = "README.md"
+
+# Sections that hold entries. Community Resources and Volunteering Opportunities
+# have no entries yet, so they stay prose and the engine leaves them alone.
+sections = [
+    "Blogs and Podcasts",
+    "Educational Resources",
+    "Events, Conferences, and Meetups",
+    "Open Source Projects",
+    "Startups",
+    "Tech Jobs",
+]
+
+[site]
+enabled = false
+
+[links]
+archive = "off"
+
+# This list does not use tags: an empty table says so.
+[tags]
+
+[github]
+stats = true
+max_age_days = 30
+snapshot = "github-stats.json"
