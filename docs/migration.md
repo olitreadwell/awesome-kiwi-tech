@@ -1,6 +1,6 @@
 # Migration to the engine
 
-`awesome-nz-tech` now runs on
+`awesome-kiwi-tech` now runs on
 [awesome-list-template](https://github.com/olitreadwell/awesome-list-template).
 This file records what changed and what is left.
 

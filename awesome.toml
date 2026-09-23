@@ -1,7 +1,7 @@
 # Configuration for this list. The engine reads it; the hooks read it.
 
-name = "Awesome NZ Tech"
-repo_slug = "awesome-nz-tech"
+name = "Awesome Kiwi Tech"
+repo_slug = "awesome-kiwi-tech"
 readme = "README.md"
 
 # Sections that hold entries. Community Resources and Volunteering Opportunities
