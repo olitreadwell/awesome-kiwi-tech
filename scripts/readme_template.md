@@ -1,4 +1,4 @@
-# Awesome NZ Tech
+# Awesome Kiwi Tech
 
 A curated list of awesome tech resources, projects, and communities in Aotearoa New Zealand.
 

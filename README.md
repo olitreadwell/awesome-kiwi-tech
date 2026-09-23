@@ -1,4 +1,4 @@
-# Awesome NZ Tech
+# Awesome Kiwi Tech
 
 ## Contents
 
